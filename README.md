@@ -100,3 +100,5 @@ cd ..
 
 That's it.
 Now you can access the final app via: <https://with-zones.nextjs.org>
+
+HI
