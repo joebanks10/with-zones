@@ -1,0 +1,10 @@
+.DS_Store
+.next
+.vscode
+*.log
+bundles
+browserstack.err
+node_modules
+coverage
+nrdiag
+tests_output
